@@ -1,0 +1,62 @@
+li{
+	list-style-type: none;
+}
+
+.nav{
+	display: inline;
+}
+
+.tooper ul{
+	margin: 0;
+	padding: 0;
+}
+
+.green{
+	color: green;
+	font-weight: bold;
+}
+
+.red{
+	color: red;
+	font-weight: bold;
+}
+
+.brown{
+	color: brown;
+	font-weight: bold;	
+}
+
+.left_col{
+	width: 50%;
+	float: left;
+}
+
+.right_col{
+	width: 50%;
+	float: left;
+}
+
+.meat{
+	color: red;
+	font-weight: bold;
+}
+
+.hamburger{
+	color: brown;
+	font-weight: bold;
+}
+
+.fish{
+	color: blue;
+	font-weight: bold;
+}
+
+.tofu{
+	color: #0ffff0;
+	font-weight: bold;
+}
+
+.giant_mashroom{
+	color: #567fa0;
+	font-weight: bold;
+}
